@@ -19,6 +19,10 @@ function App() {
         <ImageCard img={photo5} name="Griff Richards" position="Developer" />
         <ImageCard img={photo6} name="Stan John" position="Developer" />
       </div>
+      <div className="credits">
+        created by <p className="user">rocketonthemoon</p> -{" "}
+        <a href="http://devchallenges.io">devChallenges.io</a>
+      </div>
     </div>
   );
 }
