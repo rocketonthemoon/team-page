@@ -9210,12 +9210,12 @@
             }),
           });
         },
-        o = t.p + "build/static/media/photo1.53cb787d52ff561a842c.png",
-        u = t.p + "build/static/media/photo2.3bd57a7650ba15a7fb4a.png",
-        i = t.p + "build/static/media/photo3.db903a1f7cd3d63fb811.png",
-        s = t.p + "build/static/media/photo4.801b737626720066c2fe.png",
-        c = t.p + "build/static/media/photo5.2361d00277da13ffe44b.png",
-        f = t.p + "build/static/media/photo6.b7c0b378fcc37d3c25af.png";
+        o = t.p + "static/media/photo1.53cb787d52ff561a842c.png",
+        u = t.p + "static/media/photo2.3bd57a7650ba15a7fb4a.png",
+        i = t.p + "static/media/photo3.db903a1f7cd3d63fb811.png",
+        s = t.p + "static/media/photo4.801b737626720066c2fe.png",
+        c = t.p + "static/media/photo5.2361d00277da13ffe44b.png",
+        f = t.p + "static/media/photo6.b7c0b378fcc37d3c25af.png";
       var d = function () {
         return (0, r.jsxs)("div", {
           className: "container",
